@@ -1,0 +1,22 @@
+nav {
+    
+    overflow: hidden;
+}
+nav a {
+    text-decoration: none;
+    padding-bottom: 10px;
+    
+    float: left;
+    font-size: 20px;
+    font-family: calibri;
+    color: #000;
+    margin-top: 3px;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-family: "Garamond";
+    line-height:50px;
+    letter-spacing: 3px;
+}
